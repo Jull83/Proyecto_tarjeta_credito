@@ -14,4 +14,4 @@
 7.Sumar resultado de numeros pares x2 mas numeros impares.
 8.Si el residuo de la suma es modulo de 10 = 0, el número es valido.
 
-![diagrama de flujo] [C:\Users\JAQUELINE\Documents\proyectos_laboratoria]
+![diagrama de flujo] [proyectos_laboratoria\sprint1\final_project_tarjet\assets\images]
